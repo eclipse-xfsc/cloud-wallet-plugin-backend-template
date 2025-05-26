@@ -7,7 +7,7 @@ toolchain go1.24.2
 require (
 	github.com/eclipse-xfsc/cloud-wallet-plugin-core v1.0.0
 	github.com/eclipse-xfsc/nats-message-library v1.1.13
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/google/uuid v1.6.0
 	gitlab.eclipse.org/eclipse/xfsc/libraries/crypto/engine/core v0.0.0-20231109072850-c268bd1b9cee
 )
