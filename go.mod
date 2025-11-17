@@ -6,7 +6,7 @@ toolchain go1.24.2
 
 require (
 	github.com/eclipse-xfsc/cloud-wallet-plugin-core v1.0.0
-	github.com/eclipse-xfsc/nats-message-library v1.1.13
+	github.com/eclipse-xfsc/nats-message-library v1.3.0
 	github.com/gin-gonic/gin v1.10.0
 	github.com/google/uuid v1.6.0
 	gitlab.eclipse.org/eclipse/xfsc/libraries/crypto/engine/core v0.0.0-20231109072850-c268bd1b9cee
@@ -33,10 +33,10 @@ require (
 	github.com/eapache/queue v1.1.0 // indirect
 	github.com/eclipse-xfsc/cloud-event-provider v0.1.5 // indirect
 	github.com/eclipse-xfsc/crypto-provider-core v1.4.1 // indirect
-	github.com/eclipse-xfsc/did-core v1.0.2 // indirect
+	github.com/eclipse-xfsc/did-core/v2 v2.1.0 // indirect
 	github.com/eclipse-xfsc/microservice-core-go v1.1.0 // indirect
-	github.com/eclipse-xfsc/oid4-vci-vp-library v1.4.6 // indirect
-	github.com/eclipse-xfsc/ssi-jwt v1.2.1 // indirect
+	github.com/eclipse-xfsc/oid4-vci-vp-library v1.5.0 // indirect
+	github.com/eclipse-xfsc/ssi-jwt/v2 v2.1.0 // indirect
 	github.com/eclipse/paho.golang v0.12.0 // indirect
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.9 // indirect
@@ -69,7 +69,7 @@ require (
 	github.com/lestrrat-go/httpcc v1.0.1 // indirect
 	github.com/lestrrat-go/httprc v1.0.6 // indirect
 	github.com/lestrrat-go/iter v1.0.2 // indirect
-	github.com/lestrrat-go/jwx/v2 v2.1.5 // indirect
+	github.com/lestrrat-go/jwx/v2 v2.1.6 // indirect
 	github.com/lestrrat-go/option v1.0.1 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
