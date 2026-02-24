@@ -9,7 +9,7 @@ require (
 	github.com/eclipse-xfsc/nats-message-library v1.1.13
 	github.com/gin-gonic/gin v1.10.0
 	github.com/google/uuid v1.6.0
-	gitlab.eclipse.org/eclipse/xfsc/libraries/crypto/engine/core v0.0.0-20231109072850-c268bd1b9cee
+	gitlab.eclipse.org/eclipse/xfsc/libraries/crypto/engine/core v1.3.1
 )
 
 require (
@@ -49,7 +49,6 @@ require (
 	github.com/go-resty/resty/v2 v2.7.0 // indirect
 	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
 	github.com/goccy/go-json v0.10.5 // indirect
-	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang-jwt/jwt/v5 v5.0.0 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
